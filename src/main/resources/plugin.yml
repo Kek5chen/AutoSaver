@@ -1,0 +1,5 @@
+name: AutoSaver
+version: 1.0.0
+description: Automatically saves your game every 30 minutes.
+main: me.kx.autosaver.AutoSaver
+author: kx
